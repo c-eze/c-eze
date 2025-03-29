@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C#<br>🎯 Goals: Create more projects<br>🎲 Fun fact: I write left-handed!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C#<br>🎯 Goals: Complete more projects<br>🎲 Fun fact: I write left-handed!</p>
 
 ###
 
