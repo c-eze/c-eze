@@ -1,5 +1,6 @@
-## Hi there 👋, I am Chikere. Full Stack .NET Engineer
+## Hi there 👋, I am Chikere. Full Stack NET Engineer
 
+Check out my [portfolio](https://chikere.dev)!
 <!--
 **c-eze/c-eze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
