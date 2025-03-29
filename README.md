@@ -1,6 +1,10 @@
 ## Hi there 👋, I am Chikere. Full Stack NET Engineer
-
+---
 Check out my [portfolio](https://chikere.dev)!
+
+## Skills
+---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **c-eze/c-eze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
