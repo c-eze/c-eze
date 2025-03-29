@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Connect</h2>
+<h2 align="left">Follow Me:</h2>
 
 ###
 
