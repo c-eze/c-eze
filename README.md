@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Follow me</h2>
+<h2 align="left">Follow me on</h2>
 
 ###
 
