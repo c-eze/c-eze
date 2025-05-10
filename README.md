@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm program in C#<br>🎯 Goals: Complete more apps<br>🎲 Fun fact: I write left-handed!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I program in C#<br>🎯 Goals: Complete more apps<br>🎲 Fun fact: I write left-handed!</p>
 
 ###
 
