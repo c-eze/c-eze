@@ -2,14 +2,10 @@
 
 ###
 
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>🎯 Goals: Complete more apps<br>🎲 Fun fact: I write left-handed!</p>
+- I'm a .NET Developer who transforms programming ideas into web solutions using C#, Blazor, Javascript, SQL, and Bootstrap.
+- I specialize in building and deploying full-stack ASP.NET web applications, APIs, landing pages, forms, and other web-related content.
+- I enjoy writing and publishing blog articles about .NET software development. 
+- I'm always looking for opportunities to connect and collaborate with others. Feel free to reach out to me! 
 
 ###
 
@@ -39,12 +35,28 @@
 
 ###
 
-<a href="https://workflo.up.railway.app/">
-    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="20%">
-</a>
-<a href="https://ceblog.up.railway.app/">
-    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="20%">
-</a>
+<div align="left">
+  <a href="https://workflo.up.railway.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="20%">
+  </a>
+  <a href="https://ceblog.up.railway.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="20%">
+  </a>
+  <a href="https://cuisineai.up.railway.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/CuisineAI.png" width ="20%">
+  </a>
+</div>
+<div align="left">  
+  <a href="https://kinext.up.railway.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Kinext.png" width ="20%">
+  </a>
+  <a href="https://blazorle.netlify.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/LoanExpress.png" width ="20%">
+  </a>
+  <a href="https://blazorfb.netlify.app/">
+      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/FizzBuzz.png" width ="20%">
+  </a>
+</div>
 
 ###  
 
