@@ -13,13 +13,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor logo"/>
+  <img width="12" />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -38,7 +40,7 @@
 ###
 
 <a href="https://workflo.up.railway.app/">
-    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="30%">
+    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="15%">
 </a>
 
 ###  
