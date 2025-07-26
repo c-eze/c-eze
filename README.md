@@ -40,10 +40,10 @@
 ###
 
 <a href="https://workflo.up.railway.app/">
-    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="15%">
+    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="20%">
 </a>
 <a href="https://ceblog.up.railway.app/">
-    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="15%">
+    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="20%">
 </a>
 
 ###  
