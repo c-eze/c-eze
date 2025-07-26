@@ -20,7 +20,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="40" alt="blazor logo"/>
   <img width="12" />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -42,7 +42,9 @@
 <a href="https://workflo.up.railway.app/">
     <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Workflo.png" width ="15%">
 </a>
-
+<a href="https://ceblog.up.railway.app/">
+    <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="15%">
+</a>
 ###  
 
 <h2 align="left">Follow me on</h2>
