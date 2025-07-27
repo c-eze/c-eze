@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋 Welcome</h1>
+<h2 align="left">👋 Hi! Welcome 😊</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🛠️ Skills</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">💻 Projects</h2>
 
 ###
 
@@ -60,20 +60,11 @@
 
 ###  
 
-<h2 align="left">Follow me on</h2>
+<h2 align="left">🌐 Socials</h2>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-</div>
-
-###
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/chikere-ezekannagha/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chikeredev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ChikereDev) [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/c_ezek) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/chikeredev) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@chikeredev)
 
 ###
 
