@@ -3,8 +3,8 @@
 ###
 
 - I'm a .NET Developer who transforms programming ideas into web solutions using C#, Blazor, Javascript, SQL, and Bootstrap.
-- I specialize in building and deploying full-stack ASP.NET web applications, APIs, landing pages, forms, and other web-related content.
-- I enjoy writing and publishing blog articles about .NET software development. 
+- I specialize in building and deploying full-stack ASP.NET web applications, APIs, landing pages, forms, and other web-related content. Visit my portfolio website [here.](https://chikere.dev)
+- I enjoy writing and publishing blog articles about .NET software development. Visit my personal blog website [here.](https://chikeredev.hashnode.dev/)
 - I'm always looking for opportunities to connect and collaborate with others. Feel free to reach out to me! 
 
 ###
