@@ -40,21 +40,21 @@
       <img src="https://chikere.dev/assets/image/others/Workflo.png" width ="20%">
   </a>
   <a href="https://ceblog.up.railway.app/">
-      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/chikere.png" width ="20%">
+      <img src="https://chikere.dev/assets/image/others/chikere.png" width ="20%">
   </a>
   <a href="https://cuisineai.up.railway.app/">
-      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/CuisineAI.png" width ="20%">
+      <img src="https://chikere.dev/assets/image/others/CuisineAI.png" width ="20%">
   </a>
 </div>
 <div align="left">  
   <a href="https://kinext.up.railway.app/">
-      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/Kinext.png" width ="20%">
+      <img src="https://chikere.dev/assets/image/others/Kinext.png" width ="20%">
   </a>
   <a href="https://blazorle.netlify.app/">
-      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/LoanExpress.png" width ="20%">
+      <img src="https://chikere.dev/assets/image/others/LoanExpress.png" width ="20%">
   </a>
   <a href="https://blazorfb.netlify.app/">
-      <img src="https://github.com/c-eze/Portfolio/blob/main/assets/image/others/FizzBuzz.png" width ="20%">
+      <img src="https://chikere.dev/assets/image/others/FizzBuzz.png" width ="20%">
   </a>
 </div>
 
